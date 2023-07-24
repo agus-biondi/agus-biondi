@@ -23,6 +23,3 @@ Back End: AWS Lambda, AWS API Gateway, AWS S3, AWS IAM, AWS Cloudformation, Dyna
 Front End: JavaScript, HTML, CSS, Bootstrap, Thymeleaf
 Additional: Agile Project Management, Algorithms, Architecture, Debugging, Deployment
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agus-biondi&show_icons=true&locale=en&layout=compact" alt="agus-biondi" /></p>
-
