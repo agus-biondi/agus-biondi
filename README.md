@@ -7,7 +7,7 @@ I have honed my skills in a wide range of technologies including but not limited
 
 One of my most significant projects at the bootcamp was building a web application that enables users to filter large CSV files. This project was not just about coding a solution, but also about developing a practical tool that could help users in handling large datasets.
 
-I am excited about the future ossibilities in tech, eager to contribute my skills, and continually grow as a developer. I am open to opportunities that will allow me to leverage my skills and continue to learn.
+I am excited about the future possibilities in tech, eager to contribute my skills, and continually grow as a developer. I am open to opportunities that will allow me to leverage my skills and continue to learn.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
