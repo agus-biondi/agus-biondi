@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
-<h3 align="center">A backend developer</h3>
 
 Hello! I'm a developer with a rich background in Human Resources, specializing in data analytics and process improvement.
 
