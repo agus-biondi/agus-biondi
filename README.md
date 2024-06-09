@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Agustin</h1>
 <h3 align="center">A backend developer</h3>
 
-Hello! I'm a software developer with a rich background in Human Resources, specializing in data analytics and process improvement.
+Hello! I'm a developer with a rich background in Human Resources, specializing in data analytics and process improvement.
 
 I have honed my skills in a wide range of technologies including but not limited to Java, Spring Boot, AWS technologies, SQL, and more.
-
-One of my most significant projects at the bootcamp was building a web application that enables users to filter large CSV files. This project was not just about coding a solution, but also about developing a practical tool that could help users in handling large datasets.
 
 I am excited about the future possibilities in tech, eager to contribute my skills, and continually grow as a developer. I am open to opportunities that will allow me to leverage my skills and continue to learn.
 
